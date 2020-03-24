@@ -1,5 +1,6 @@
 #Report2-2
 ## 컴퓨터공학과 20171138 허민재 
+```
 PFont f;
 void setup(){
   size(900,500);
@@ -14,4 +15,5 @@ void draw(){
   i=i+dir*sp;
   if (keyPressed) sp = key-'0';
 }
+```
 ### 안동대 컴퓨터공학과 파이팅!!
